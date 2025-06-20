@@ -1,5 +1,5 @@
 # DATA-ANALYSIS-DASHBOARD
-reated an interactive Power BI dashboard for Blinkit to analyze sales, customer behavior, and product performance. Used Excel data, Power Query, and DAX to deliver insights on revenue trends, delivery efficiency, and regional performance, enabling data-driven business decisions.
+created an interactive Power BI dashboard for Blinkit to analyze sales, customer behavior, and product performance. Used Excel data, Power Query, and DAX to deliver insights on revenue trends, delivery efficiency, and regional performance, enabling data-driven business decisions.
 This Power BI project delivers a comprehensive business intelligence dashboard for **Blinkit**, a leading quick-commerce delivery platform. The dashboard is designed to empower stakeholders with real-time insights into sales, customer behavior, product performance, and operational efficiency.
 
 ---
