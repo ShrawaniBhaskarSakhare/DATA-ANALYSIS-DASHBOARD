@@ -99,6 +99,3 @@ This dashboard acts as a **strategic tool** for Blinkit by:
 
 ---
 
-## 📷 Screenshots
-
-*Coming Soon: Visual snapshots of the dashboard UI*
